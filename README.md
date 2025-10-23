@@ -35,10 +35,5 @@ Focused on understanding React core concepts (createElement, props, composition)
 🚀 Live Preview  :   https://component-based-styling-task-7.vercel.app/
 
 📸 Screenshot
+
 <img width="1919" height="936" alt="image" src="https://github.com/user-attachments/assets/8ffd1f6c-97ab-443a-97af-4d281ed158dd" />
-
-
-
-📸 Screenshot
-
-![Perfumy React App Screenshot](./screenshot.png)
