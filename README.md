@@ -1,8 +1,7 @@
 💐 Perfumy — React Landing Page
-📌 Description
 
 Perfumy is a stylish and minimal React landing page created using pure React and Tailwind CSS.
-It showcases a perfume brand through a modern and responsive layout, demonstrating the use of React components, Tailwind utilities, and modular design — all without JSX syntax.
+It showcases a perfume brand through a modern and responsive layout, demonstrating the use of React components, Tailwind utilities, and modular design 
 
 This project includes:
 
